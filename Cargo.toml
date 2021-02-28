@@ -1,0 +1,10 @@
+[package]
+name = "memmap-demo"
+version = "0.1.0"
+authors = ["sergey-melnychuk"]
+edition = "2018"
+
+[dependencies]
+memmap = "0.7.0"
+borrowed-byte-buffer = "0.1.1"
+
